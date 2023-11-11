@@ -1,0 +1,490 @@
+{
+  "_id": "65089de8ce0aac042cc47b32",
+  "split": false,
+  "buyer_submitted": false,
+  "easy_order_viewed": false,
+  "easy_order_ready": false,
+  "collaborative_draft": false,
+  "edited": false,
+  "payment_status": "Not Paid",
+  "is_drop_ship": false,
+  "__shipment_status": [],
+  "__uninitiated_order": false,
+  "__includes_cancelled": false,
+  "__cancelled_units": 0,
+  "__cancelled_total": 0,
+  "__is_rtp": false,
+  "order_tags": [],
+  "creator_name": "Amy J. Hill",
+  "schema_id": "64074a3d15169e1994e06502",
+  "line_items": [
+    {
+      "product": {
+        "_id": "64229ea416f63f19d7ca3ed0",
+        "style_number": "4156301-4",
+        "color": "TURQUOISE, RED",
+        "color_code": "",
+        "season": "F22",
+        "department": "TABLE LINENS"
+      },
+      "ship_start": "2023-09-18T00:00:00.000Z",
+      "ship_end": "2023-12-20T00:00:00.000Z",
+      "total_applied": "0",
+      "effective_subtotal": "84",
+      "original_total": "84",
+      "discounted_total": "84",
+      "item_price_after_discount": "$28.00",
+      "adjusted_wholesale_string": "$28.00",
+      "retail_string": "$45.00",
+      "total_adjustment": "0",
+      "company_manual_discount_on_item": "0",
+      "item_manual_discount_on_item": "0",
+      "applied": [],
+      "sizes": [
+        {
+          "size": "20x20 Set 4",
+          "quantity": 3,
+          "price": 28,
+          "original_price": 28,
+          "upc": "844277082457",
+          "discounts": {
+            "total_discount": 0,
+            "_id": "65089de8ce0aac2ce3c47b56",
+            "applied": []
+          },
+          "surcharges": {
+            "total_surcharge": "0",
+            "applied": []
+          }
+        }
+      ],
+      "surcharges": {
+        "total_surcharge": "0",
+        "applied": []
+      },
+      "warehouse": "Wholesale",
+      "prebook": false
+    },
+    {
+      "product": {
+        "_id": "64229ea516f63f77dfca3fb0",
+        "style_number": "4193301-4",
+        "color": "BROWN",
+        "color_code": "",
+        "season": "EG",
+        "department": "TABLE LINENS"
+      },
+      "ship_start": "2023-09-18T00:00:00.000Z",
+      "ship_end": "2023-12-20T00:00:00.000Z",
+      "total_applied": "0",
+      "effective_subtotal": "84",
+      "original_total": "84",
+      "discounted_total": "84",
+      "item_price_after_discount": "$28.00",
+      "adjusted_wholesale_string": "$28.00",
+      "retail_string": "$56.00",
+      "total_adjustment": "0",
+      "company_manual_discount_on_item": "0",
+      "item_manual_discount_on_item": "0",
+      "applied": [],
+      "sizes": [
+        {
+          "size": "20x20 Set 4",
+          "quantity": 3,
+          "price": 28,
+          "original_price": 28,
+          "upc": "844277090377",
+          "discounts": {
+            "total_discount": 0,
+            "_id": "65089de8ce0aace956c47b59",
+            "applied": []
+          },
+          "surcharges": {
+            "total_surcharge": "0",
+            "applied": []
+          }
+        }
+      ],
+      "surcharges": {
+        "total_surcharge": "0",
+        "applied": []
+      },
+      "warehouse": "Wholesale",
+      "prebook": false
+    },
+    {
+      "product": {
+        "_id": "64229ea616f63f711fca4086",
+        "style_number": "4170301-4",
+        "color": "RED, BURGUNDY",
+        "color_code": "",
+        "season": "F22",
+        "department": "TABLE LINENS"
+      },
+      "ship_start": "2023-09-18T00:00:00.000Z",
+      "ship_end": "2023-12-20T00:00:00.000Z",
+      "total_applied": "0",
+      "effective_subtotal": "84",
+      "original_total": "84",
+      "discounted_total": "84",
+      "item_price_after_discount": "$28.00",
+      "adjusted_wholesale_string": "$28.00",
+      "retail_string": "$56.00",
+      "total_adjustment": "0",
+      "company_manual_discount_on_item": "0",
+      "item_manual_discount_on_item": "0",
+      "applied": [],
+      "sizes": [
+        {
+          "size": "20x20 Set 4",
+          "quantity": 3,
+          "price": 28,
+          "original_price": 28,
+          "upc": "844277084475",
+          "discounts": {
+            "total_discount": 0,
+            "_id": "65089de8ce0aacad09c47b5c",
+            "applied": []
+          },
+          "surcharges": {
+            "total_surcharge": "0",
+            "applied": []
+          }
+        }
+      ],
+      "surcharges": {
+        "total_surcharge": "0",
+        "applied": []
+      },
+      "warehouse": "Wholesale",
+      "prebook": false
+    },
+    {
+      "product": {
+        "_id": "64229ea716f63fca59ca422a",
+        "style_number": "4230301-4",
+        "color": "GREEN, RED",
+        "color_code": "",
+        "season": "F22",
+        "department": "TABLE LINENS"
+      },
+      "ship_start": "2023-09-18T00:00:00.000Z",
+      "ship_end": "2023-12-20T00:00:00.000Z",
+      "total_applied": "0",
+      "effective_subtotal": "84",
+      "original_total": "84",
+      "discounted_total": "84",
+      "item_price_after_discount": "$28.00",
+      "adjusted_wholesale_string": "$28.00",
+      "retail_string": "$56.00",
+      "total_adjustment": "0",
+      "company_manual_discount_on_item": "0",
+      "item_manual_discount_on_item": "0",
+      "applied": [],
+      "sizes": [
+        {
+          "size": "20x20 Set 4",
+          "quantity": 3,
+          "price": 28,
+          "original_price": 28,
+          "upc": "844277097994",
+          "discounts": {
+            "total_discount": 0,
+            "_id": "65089de8ce0aac2713c47b5f",
+            "applied": []
+          },
+          "surcharges": {
+            "total_surcharge": "0",
+            "applied": []
+          }
+        }
+      ],
+      "surcharges": {
+        "total_surcharge": "0",
+        "applied": []
+      },
+      "warehouse": "Wholesale",
+      "prebook": false
+    },
+    {
+      "product": {
+        "_id": "64229ea716f63f3669ca4272",
+        "style_number": "4224301-4",
+        "color": "RED, GREEN",
+        "color_code": "",
+        "season": "F22",
+        "department": "TABLE LINENS"
+      },
+      "ship_start": "2023-09-18T00:00:00.000Z",
+      "ship_end": "2023-12-20T00:00:00.000Z",
+      "total_applied": "0",
+      "effective_subtotal": "84",
+      "original_total": "84",
+      "discounted_total": "84",
+      "item_price_after_discount": "$28.00",
+      "adjusted_wholesale_string": "$28.00",
+      "retail_string": "$56.00",
+      "total_adjustment": "0",
+      "company_manual_discount_on_item": "0",
+      "item_manual_discount_on_item": "0",
+      "applied": [],
+      "sizes": [
+        {
+          "size": "20x20 Set 4",
+          "quantity": 3,
+          "price": 28,
+          "original_price": 28,
+          "upc": "844277097086",
+          "discounts": {
+            "total_discount": 0,
+            "_id": "65089de8ce0aac5632c47b62",
+            "applied": []
+          },
+          "surcharges": {
+            "total_surcharge": "0",
+            "applied": []
+          }
+        }
+      ],
+      "surcharges": {
+        "total_surcharge": "0",
+        "applied": []
+      },
+      "warehouse": "Wholesale",
+      "prebook": false
+    },
+    {
+      "product": {
+        "_id": "64a72bd4cc0e4b9dd12dd9de",
+        "style_number": "4265301-4",
+        "color": "GREEN, OCHRE",
+        "color_code": "",
+        "season": "F23",
+        "department": "TABLE LINENS"
+      },
+      "ship_start": "2023-09-18T00:00:00.000Z",
+      "ship_end": "2023-12-20T00:00:00.000Z",
+      "total_applied": "0",
+      "effective_subtotal": "84",
+      "original_total": "84",
+      "discounted_total": "84",
+      "item_price_after_discount": "$28.00",
+      "adjusted_wholesale_string": "$28.00",
+      "retail_string": "$56.00",
+      "total_adjustment": "0",
+      "company_manual_discount_on_item": "0",
+      "item_manual_discount_on_item": "0",
+      "applied": [],
+      "sizes": [
+        {
+          "size": "20x20",
+          "quantity": 3,
+          "price": 28,
+          "original_price": 28,
+          "upc": "840346400665",
+          "discounts": {
+            "total_discount": 0,
+            "_id": "65089de8ce0aac3000c47b65",
+            "applied": []
+          },
+          "surcharges": {
+            "total_surcharge": "0",
+            "applied": []
+          }
+        }
+      ],
+      "surcharges": {
+        "total_surcharge": "0",
+        "applied": []
+      },
+      "warehouse": "Wholesale",
+      "prebook": false
+    },
+    {
+      "product": {
+        "_id": "64a72bd5cc0e4b43fa2ddb46",
+        "style_number": "4270301-4",
+        "color": "GREEN",
+        "color_code": "",
+        "season": "F23",
+        "department": "TABLE LINENS"
+      },
+      "ship_start": "2023-09-18T00:00:00.000Z",
+      "ship_end": "2023-12-20T00:00:00.000Z",
+      "total_applied": "0",
+      "effective_subtotal": "84",
+      "original_total": "84",
+      "discounted_total": "84",
+      "item_price_after_discount": "$28.00",
+      "adjusted_wholesale_string": "$28.00",
+      "retail_string": "$56.00",
+      "total_adjustment": "0",
+      "company_manual_discount_on_item": "0",
+      "item_manual_discount_on_item": "0",
+      "applied": [],
+      "sizes": [
+        {
+          "size": "20x20",
+          "quantity": 3,
+          "price": 28,
+          "original_price": 28,
+          "upc": "840346405349",
+          "discounts": {
+            "total_discount": 0,
+            "_id": "65089de8ce0aac164fc47b68",
+            "applied": []
+          },
+          "surcharges": {
+            "total_surcharge": "0",
+            "applied": []
+          }
+        }
+      ],
+      "surcharges": {
+        "total_surcharge": "0",
+        "applied": []
+      },
+      "warehouse": "Wholesale",
+      "prebook": false
+    },
+    {
+      "product": {
+        "_id": "64a72bd8cc0e4b33552dde72",
+        "style_number": "4281301-4",
+        "color": "RED",
+        "color_code": "",
+        "season": "F23",
+        "department": "TABLE LINENS"
+      },
+      "ship_start": "2023-09-18T00:00:00.000Z",
+      "ship_end": "2023-12-20T00:00:00.000Z",
+      "total_applied": "0",
+      "effective_subtotal": "84",
+      "original_total": "84",
+      "discounted_total": "84",
+      "item_price_after_discount": "$28.00",
+      "adjusted_wholesale_string": "$28.00",
+      "retail_string": "$56.00",
+      "total_adjustment": "0",
+      "company_manual_discount_on_item": "0",
+      "item_manual_discount_on_item": "0",
+      "applied": [],
+      "sizes": [
+        {
+          "size": "20x20",
+          "quantity": 3,
+          "price": 28,
+          "original_price": 28,
+          "discounts": {
+            "total_discount": 0,
+            "_id": "65089de8ce0aacf2e4c47b6b",
+            "applied": []
+          },
+          "surcharges": {
+            "total_surcharge": "0",
+            "applied": []
+          }
+        }
+      ],
+      "surcharges": {
+        "total_surcharge": "0",
+        "applied": []
+      },
+      "warehouse": "Wholesale",
+      "prebook": false
+    }
+  ],
+  "status": "processed",
+  "currency_code": "USD",
+  "order_group_id": "65089b41d07fcdb7e54f05e4",
+  "total": 672,
+  "selected_shipping_locations": [],
+  "__split_overrides": [
+    {
+      "_id": "65089de8ce0aac8e2ac47b4c",
+      "key": "_default_2023/09/18_2023/12/20__64074a3e67d90e3c7bbc7892"
+    }
+  ],
+  "__configure_to_order_items": [],
+  "shipments": [],
+  "order_number": "131803493",
+  "modified_on": "2023-09-18T19:17:25.573Z",
+  "retailer": {
+    "_id": "64247582c5c4ef4909f8139b",
+    "retailer_name": "Sweet Gourmet",
+    "retailer_code": "SWEET GOURMET",
+    "buyer_name": "Pam Gabriel",
+    "buyer_email": "pam@sweetgourmetonline.com"
+  },
+  "billing_address": {
+    "line_1": "4554 S. Broadway Ave",
+    "country": "USA",
+    "city": "Tyler",
+    "state": "TX",
+    "zip": "75703",
+    "ref": "64247582c5c4ef03abf8139c"
+  },
+  "shipping_address": {
+    "line_1": "4554 S. Broadway Ave",
+    "country": "USA",
+    "city": "Tyler",
+    "state": "TX",
+    "zip": "75703",
+    "ref": "64247582c5c4ef03abf8139c"
+  },
+  "submitted_by": "web",
+  "legal_file": null,
+  "customer_po_number": "",
+  "discount": 0,
+  "additional_percentage": 0,
+  "notes": "",
+  "locked": false,
+  "total_quantity": 24,
+  "style_number": "4156301-4",
+  "existing_pdf_linesheet": "65089de8ce0aac7ae2c47b35",
+  "admin_pdf": "65089de8ce0aac79b7c47b36",
+  "manager_pdf": "65089de8ce0aacc421c47b37",
+  "rep_pdf": "65089de8ce0aac4078c47b38",
+  "buyer_pdf": "65089de8ce0aacf203c47b39",
+  "tech_pdf": "65089de8ce0aac758bc47b3a",
+  "created_on": "2023-09-18T18:58:48.161Z",
+  "__metadata": {
+    "payments": {
+      "credit_card_on_file": null,
+      "payment_status": "Not Paid",
+      "payment_methods_allowed": []
+    }
+  },
+  "shipping_information": {},
+  "rep_name": "Amy J. Hill",
+  "rep_code": "",
+  "rep_email": "",
+  "start_ship": "2023-09-18T00:00:00.000Z",
+  "end_ship": "2023-12-20T00:00:00.000Z",
+  "order_discounts": {
+    "discounted_total": "672",
+    "original_total": "672",
+    "total_after_line_item_discount": "672",
+    "total_applied": "0",
+    "total_order_level_discount": "0",
+    "applied": [],
+    "surcharge": "0",
+    "company_manual_discount": "0",
+    "total_line_item_manual_discounts": "0",
+    "total_line_items_discount": "0",
+    "total_line_item_product_promotions": "0",
+    "shipping_final_amount": "0",
+    "surcharges": {
+      "total_surcharge": "0",
+      "applied": [
+        {
+          "name": "",
+          "_id": "65089de8ce0aac8c2ac47b6c",
+          "price": "0",
+          "currency_code": "USD",
+          "price_code": "total_surcharges"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "nuorder-shopify"
+version = "0.1.0"
+description = ""
+authors = ["Mbatha-Marvin <mbathamarvin597@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.9,<=3.12"
+fastapi = {extras = ["all"], version = "^0.103.1"}
+httpx = "^0.25.0"
+SQLAlchemy = "^2.0.21"
+sqlalchemy-orm = "^1.2.10"
+oauthlib = "^3.2.2"
+loguru = "^0.7.2"
+requests = "^2.31.0"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^7.4.2"
+black = "^23.9.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
